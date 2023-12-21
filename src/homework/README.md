@@ -1,6 +1,9 @@
 В начальном проекте класс User содержит 3 метода, которые сочетают в себе 3 разные функции:
+
 public String getName(){
+
 public c void save(){
+
 public void report(){
 
 При чем метод save вызывает класс объект Persister для сохранения информации.
